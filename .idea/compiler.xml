@@ -10,8 +10,8 @@
         <module name="EurekaServer" />
         <module name="config-server" />
         <module name="Account" />
-        <module name="Credit" />
         <module name="Movement" />
+        <module name="Credit" />
         <module name="prjApiGateway" />
         <module name="api-gateway" />
         <module name="Client" />
